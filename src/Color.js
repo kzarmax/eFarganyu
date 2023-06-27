@@ -1,0 +1,18 @@
+export const Color = {
+	"primary": "#EFA70F",
+	"primaryLight" : "#37ad97",
+	"primaryDark" : "#046b57",
+	"grey" : "#9e9e9e",
+	"grey600" : "#9e9e9e",
+	"grey900" : "#212121",
+	"textBlack" : "#4C4C4C",
+	"textBackgroundWhite": "#f7f7f7",
+	"borderLight" : "#F0F0F0",
+	"inputBorder" : "#e0e0e0",
+	"limegreen" : "#32CD32",
+	"blue" : "#4285F4",
+	"red" : "#e60000",
+	"pink" : "#F27079",
+	"purple" : "#765780",
+	"paggBackgroud" : "#FAFAFA",
+};
